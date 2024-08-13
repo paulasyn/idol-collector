@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Home() {
   return (
 	<main>
-    <h1>Idol Collector</h1>
+    <h1 className='text-black text-3xl font-bold'>Idol Collector</h1>
 	</main>
   );
 }
