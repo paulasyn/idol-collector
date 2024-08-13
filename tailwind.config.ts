@@ -16,5 +16,8 @@ const config: Config = {
     },
   },
   plugins: [],
+  daiysui: {
+	themes: ['valentine'],
+  },
 };
 export default config;
